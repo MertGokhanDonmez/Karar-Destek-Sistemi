@@ -1,4 +1,4 @@
-# Karar Destek Sistemi 🚛
+# Karar Destek Sistemi (Logistics Decision Support System)🚛
 ### Vehicle & Driver Performance Tracking for Logistics Companies
 
 A web-based decision support system built for logistics businesses to monitor and analyze vehicle and driver performance in real time. The system provides an interactive dashboard, data tables, and map views to support data-driven operational decisions.
